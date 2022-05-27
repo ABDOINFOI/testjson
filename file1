@@ -1,0 +1,51 @@
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "el abbadi abderrahim",
+    "email": "elabbadi2002@gmail.com",
+    "Type": "sans additif"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "marouane acharifi",
+    "email": "marouaneacharifi@gmail.com",
+    "Type": "hemostase"
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "name": "mohamed el abbadi ",
+    "email": "mouhamed@garfield.biz",
+    "Type": "separateur de s�rum"
+  },
+  {
+    "postId": 1,
+    "id": 4,
+    "name": "hicham el abbadi",
+    "email": "hicham@alysha.tv",
+    "Type": "pst"
+  },
+  {
+    "postId": 1,
+    "id": 5,
+    "name": "mourad el abbadi ",
+    "email": "mourad@garfield.biz",
+    "Type": "edta"
+  },
+  {
+    "postId": 1,
+    "id": 6,
+    "name": "samad el abbadi",
+    "email": "samad@alysha.tv",
+    "Type": "glucose"
+  },
+  {
+    "postId": 1,
+    "id": 7,
+    "name": "salah ",
+    "email": "salah@gmail.com",
+    "Type": "acd"
+  }
+]
